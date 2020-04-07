@@ -1,1 +1,8 @@
 # Explotrip
+
+
+https://www.codeofaninja.com/2018/09/rest-api-authentication-example-php-jwt-tutorial.html
+
+
+
+jwt : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLm9yZyIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwiaWF0IjoxMzU2OTk5NTI0LCJuYmYiOjEzNTcwMDAwMDAsImRhdGEiOnsiaWQiOiIxIiwiZmlyc3RuYW1lIjoiTWlrZSIsImxhc3RuYW1lIjoiRGFsaXNheSIsImVtYWlsIjoibWlrZUBjb2Rlb2ZhbmluamEuY29tIn19.PU3emY4aa6aovoIHUZqHL2gFYY6XtLjJyUmpZ8JK3pM
